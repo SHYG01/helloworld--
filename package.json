@@ -1,0 +1,9 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "我的第一个AI开发的HelloWorld网站",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
